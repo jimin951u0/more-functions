@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sources\\morefunctions\\morefunctions\\morefunctions.csproj",
+      "projectUniqueName": "C:\\sources\\more-functions\\morefunctions\\morefunctions.csproj",
       "projectName": "morefunctions",
-      "projectPath": "C:\\sources\\morefunctions\\morefunctions\\morefunctions.csproj",
+      "projectPath": "C:\\sources\\more-functions\\morefunctions\\morefunctions.csproj",
       "packagesPath": "C:\\Users\\Jimin\\.nuget\\packages\\",
-      "outputPath": "C:\\sources\\morefunctions\\morefunctions\\obj\\",
+      "outputPath": "C:\\sources\\more-functions\\morefunctions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jimin\\AppData\\Roaming\\NuGet\\NuGet.Config",
