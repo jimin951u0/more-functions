@@ -1,0 +1,15 @@
+C:\sources\morefunctions\morefunctions\obj\Debug\net6.0\morefunctions.csproj.AssemblyReference.cache
+C:\sources\morefunctions\morefunctions\obj\Debug\net6.0\morefunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\morefunctions\morefunctions\obj\Debug\net6.0\morefunctions.AssemblyInfoInputs.cache
+C:\sources\morefunctions\morefunctions\obj\Debug\net6.0\morefunctions.AssemblyInfo.cs
+C:\sources\morefunctions\morefunctions\obj\Debug\net6.0\morefunctions.csproj.CoreCompileInputs.cache
+C:\sources\morefunctions\morefunctions\bin\Debug\net6.0\morefunctions.exe
+C:\sources\morefunctions\morefunctions\bin\Debug\net6.0\morefunctions.deps.json
+C:\sources\morefunctions\morefunctions\bin\Debug\net6.0\morefunctions.runtimeconfig.json
+C:\sources\morefunctions\morefunctions\bin\Debug\net6.0\morefunctions.dll
+C:\sources\morefunctions\morefunctions\bin\Debug\net6.0\morefunctions.pdb
+C:\sources\morefunctions\morefunctions\obj\Debug\net6.0\morefunctions.dll
+C:\sources\morefunctions\morefunctions\obj\Debug\net6.0\refint\morefunctions.dll
+C:\sources\morefunctions\morefunctions\obj\Debug\net6.0\morefunctions.pdb
+C:\sources\morefunctions\morefunctions\obj\Debug\net6.0\morefunctions.genruntimeconfig.cache
+C:\sources\morefunctions\morefunctions\obj\Debug\net6.0\ref\morefunctions.dll
